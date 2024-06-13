@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "doit-esp32-devkit-kicad-master")(type "KiCad")(uri "/home/paul/ESP32/ESP-Pump-Interface/Library/doit-esp32-devkit-kicad-master")(options "")(descr ""))
+)
